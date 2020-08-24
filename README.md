@@ -38,7 +38,7 @@ To run the notebooks open the link during the session and then select either of 
 1. [Hands on Model building with EDA](https://colab.research.google.com/drive/1cWcHVnaYvKD5vyT1F4r1au_ANaAI4x_v?usp=sharing) : Working our way from EDA to Model building.
 
 2. [EDA in Bokeh](https://colab.research.google.com/drive/1_ZaTEJY4Hkz2RIj0jchwDZaUlGiEOdWG?usp=sharing)
-: You'll be working with StackOverflow question and Tags data. After training a Logistic regression model you'll be understanding the importance of terms towards contributing the class of the tag.
+: You'll be working with Power consumption data of indian cities and Educational data of Karnataka.
 
 All resources and further reading are added in the slides.
 
